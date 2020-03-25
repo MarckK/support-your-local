@@ -1,6 +1,6 @@
 ---
 title: "Support Your Local Community"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-# description: "Support Your Local Community"
+description: "Buy Giftcards. Shop Online."
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Support Your Local Shops, Businesses, Community.

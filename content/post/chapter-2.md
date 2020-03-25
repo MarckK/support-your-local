@@ -5,6 +5,7 @@ featured_image: ""
 tags: ["california"]
 title: "Chapter II: Pierre Gringoire"
 categories: ["service"]
+draft: true
 ---
 
 Nevertheless, as be harangued them, the satisfaction and admiration
